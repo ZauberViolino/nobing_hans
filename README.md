@@ -16,7 +16,7 @@ This repository used material from [BYVoid/OpenCC](https://github.com/BYVoid/Ope
 
 将`nobinghans.txt`和`t2nobinghans.json`下载到用户文件夹（默认为`C:\Users\您的用户名\AppData\Roaming\Rime`）下的`opencc`文件夹内。
 
-给一個**以繁体字库为基础**的RIME输入方案（如朙月拼音）打补丁，參见下方示例。
+给一個**以繁体字库为基础**的RIME输入方案（如朙月拼音）打补丁，替换原先的繁简转换开关（switch），參见下方示例。
 
 ```
 patch:
